@@ -20,8 +20,8 @@ const url = require('url');
 const request = require('request');
 
 const ring = RingAPI({
-    email: 'EMAILADDRESS',
-    password: 'PASSWORD'
+    email: 'lildaddy.thizz@yahoo.com',
+    password: 'My$andra143'
 });
 
 /*
